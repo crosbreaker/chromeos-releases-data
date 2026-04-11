@@ -77780,14 +77780,14 @@
       },
       {
         "platform_version": "14469.41.0",
-        "chrome_version": "99.0.4844.57",
+        "chrome_version": "99.0.4844.60",
         "channel": "stable-channel",
         "last_modified": 1648830325,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14469.41.0_zork_recovery_stable-channel_mp-v7.bin.zip"
       },
       {
         "platform_version": "14469.41.0",
-        "chrome_version": "99.0.4844.60",
+        "chrome_version": "99.0.4844.57",
         "channel": "stable-channel",
         "last_modified": 1648830325,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14469.41.0_zork_recovery_stable-channel_mp-v7.bin.zip"
