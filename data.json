@@ -493,14 +493,14 @@
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.95",
+        "chrome_version": "89.0.4389.96",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_asuka_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.96",
+        "chrome_version": "89.0.4389.95",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_asuka_recovery_stable-channel_mp.bin.zip"
@@ -975,14 +975,14 @@
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.107",
+        "chrome_version": "93.0.4577.108",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_asurada_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.108",
+        "chrome_version": "93.0.4577.107",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_asurada_recovery_stable-channel_mp-v3.bin.zip"
@@ -1255,14 +1255,14 @@
       },
       {
         "platform_version": "15117.112.0",
-        "chrome_version": "107.0.5304.111",
+        "chrome_version": "107.0.5304.110",
         "channel": "stable-channel",
         "last_modified": 1668797768,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15117.112.0_asurada_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "15117.112.0",
-        "chrome_version": "107.0.5304.110",
+        "chrome_version": "107.0.5304.111",
         "channel": "stable-channel",
         "last_modified": 1668797768,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15117.112.0_asurada_recovery_stable-channel_mp-v3.bin.zip"
@@ -2430,6 +2430,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_asurada_recovery_stable-channel_AsuradaMPKeys-v10.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_asurada_recovery_beta-channel_AsuradaMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_asurada_recovery_beta-channel_AsuradaMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_asurada_recovery_lts-channel_AsuradaMPKeys-v9.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -2488,14 +2509,14 @@
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.143",
+        "chrome_version": "81.0.4044.141",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_atlas_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.141",
+        "chrome_version": "81.0.4044.143",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_atlas_recovery_stable-channel_mp.bin.zip"
@@ -4046,6 +4067,27 @@
         "channel": "beta-channel",
         "last_modified": 1788304160,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_atlas_recovery_beta-channel_AtlasMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_atlas_recovery_beta-channel_AtlasMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_atlas_recovery_beta-channel_AtlasMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_atlas_recovery_lts-channel_AtlasMPKeys-v9.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -6159,14 +6201,14 @@
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.78",
+        "chrome_version": "97.0.4692.77",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_banon_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.77",
+        "chrome_version": "97.0.4692.78",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_banon_recovery_stable-channel_mp.bin.zip"
@@ -6697,14 +6739,14 @@
       },
       {
         "platform_version": "14268.67.0",
-        "chrome_version": "96.0.4664.111",
+        "chrome_version": "96.0.4664.118",
         "channel": "stable-channel",
         "last_modified": 1641324292,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14268.67.0_bob_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "14268.67.0",
-        "chrome_version": "96.0.4664.118",
+        "chrome_version": "96.0.4664.111",
         "channel": "stable-channel",
         "last_modified": 1641324292,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14268.67.0_bob_recovery_stable-channel_mp.bin.zip"
@@ -8235,6 +8277,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_brask_recovery_stable-channel_BraskMPKeys-v37.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_brask_recovery_beta-channel_BraskMPKeys-v37.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_brask_recovery_beta-channel_BraskMPKeys-v37.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_brask_recovery_lts-channel_BraskMPKeys-v36.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -9119,6 +9182,27 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_brox_recovery_stable-channel_BroxMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_brox_recovery_beta-channel_BroxMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_brox_recovery_beta-channel_BroxMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_brox_recovery_lts-channel_BroxMPKeys-v7.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -10442,6 +10526,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_brya_recovery_stable-channel_BryaMPKeys-v23.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_brya_recovery_beta-channel_BryaMPKeys-v23.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_brya_recovery_beta-channel_BryaMPKeys-v23.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_brya_recovery_lts-channel_BryaMPKeys-v22.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -11009,14 +11114,14 @@
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.171",
+        "chrome_version": "88.0.4324.168",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_buddy-cfm_recovery_stable-channel_buddy-mp-v2.bin.zip"
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.168",
+        "chrome_version": "88.0.4324.171",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_buddy-cfm_recovery_stable-channel_buddy-mp-v2.bin.zip"
@@ -12287,14 +12392,14 @@
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.107",
+        "chrome_version": "93.0.4577.108",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_caroline_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.108",
+        "chrome_version": "93.0.4577.107",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_caroline_recovery_stable-channel_mp.bin.zip"
@@ -16293,6 +16398,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_cherry_recovery_stable-channel_CherryMPKeys-v11.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_cherry_recovery_beta-channel_CherryMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_cherry_recovery_beta-channel_CherryMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_cherry_recovery_lts-channel_CherryMPKeys-v10.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -18244,6 +18370,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_coral_recovery_beta-channel_CoralMPKeys-v28.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_coral_recovery_beta-channel_CoralMPKeys-v28.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_coral_recovery_beta-channel_CoralMPKeys-v28.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_coral_recovery_lts-channel_CoralMPKeys-v27.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -19445,6 +19592,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_corsola_recovery_stable-channel_CorsolaMPKeys-v25.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_corsola_recovery_beta-channel_CorsolaMPKeys-v25.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_corsola_recovery_beta-channel_CorsolaMPKeys-v25.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_corsola_recovery_lts-channel_CorsolaMPKeys-v23.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -19969,14 +20137,14 @@
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.78",
+        "chrome_version": "97.0.4692.77",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_cyan_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.77",
+        "chrome_version": "97.0.4692.78",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_cyan_recovery_stable-channel_mp-v3.bin.zip"
@@ -21330,14 +21498,14 @@
     "images": [
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.207",
+        "chrome_version": "88.0.4324.208",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_dedede_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.208",
+        "chrome_version": "88.0.4324.207",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_dedede_recovery_stable-channel_mp-v3.bin.zip"
@@ -21435,14 +21603,14 @@
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.78",
+        "chrome_version": "97.0.4692.77",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_dedede_recovery_stable-channel_mp-v21.bin.zip"
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.77",
+        "chrome_version": "97.0.4692.78",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_dedede_recovery_stable-channel_mp-v21.bin.zip"
@@ -22841,6 +23009,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_dedede_recovery_stable-channel_DededeMPKeys-v59.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_dedede_recovery_beta-channel_DededeMPKeys-v59.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_dedede_recovery_beta-channel_DededeMPKeys-v59.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_dedede_recovery_lts-channel_DededeMPKeys-v58.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -23058,28 +23247,28 @@
     "images": [
       {
         "platform_version": "13099.102.0",
-        "chrome_version": "84.0.4147.128",
-        "channel": "stable-channel",
-        "last_modified": 1597687909,
-        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13099.102.0_drallion_recovery_stable-channel_mp-v2.bin.zip"
-      },
-      {
-        "platform_version": "13099.102.0",
         "chrome_version": "87.0.4280.109",
         "channel": "stable-channel",
         "last_modified": 1597687909,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13099.102.0_drallion_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
+        "platform_version": "13099.102.0",
+        "chrome_version": "84.0.4147.128",
+        "channel": "stable-channel",
+        "last_modified": 1597687909,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13099.102.0_drallion_recovery_stable-channel_mp-v2.bin.zip"
+      },
+      {
         "platform_version": "13310.93.0",
-        "chrome_version": "85.0.4183.133",
+        "chrome_version": "85.0.4183.134",
         "channel": "stable-channel",
         "last_modified": 1601659193,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13310.93.0_drallion_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "13310.93.0",
-        "chrome_version": "85.0.4183.134",
+        "chrome_version": "85.0.4183.133",
         "channel": "stable-channel",
         "last_modified": 1601659193,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13310.93.0_drallion_recovery_stable-channel_mp-v2.bin.zip"
@@ -24672,6 +24861,27 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_drallion_recovery_stable-channel_DrallionMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_drallion_recovery_beta-channel_DrallionMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_drallion_recovery_beta-channel_DrallionMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_drallion_recovery_lts-channel_DrallionMPKeys-v9.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -27706,14 +27916,14 @@
       },
       {
         "platform_version": "14469.41.0",
-        "chrome_version": "99.0.4844.57",
+        "chrome_version": "99.0.4844.60",
         "channel": "stable-channel",
         "last_modified": 1648830325,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14469.41.0_eve_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "14469.41.0",
-        "chrome_version": "99.0.4844.60",
+        "chrome_version": "99.0.4844.57",
         "channel": "stable-channel",
         "last_modified": 1648830325,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14469.41.0_eve_recovery_stable-channel_mp-v2.bin.zip"
@@ -28643,6 +28853,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_eve_recovery_beta-channel_EveMPKeys-v11.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_eve_recovery_beta-channel_EveMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_eve_recovery_beta-channel_EveMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_eve_recovery_lts-channel_EveMPKeys-v10.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -29295,14 +29526,14 @@
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.95",
+        "chrome_version": "89.0.4389.96",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_expresso_recovery_stable-channel_mp-v15.bin.zip"
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.96",
+        "chrome_version": "89.0.4389.95",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_expresso_recovery_stable-channel_mp-v15.bin.zip"
@@ -29812,14 +30043,14 @@
       },
       {
         "platform_version": "12239.92.0",
-        "chrome_version": "76.0.3809.136",
+        "chrome_version": "76.0.3809.137",
         "channel": "stable-channel",
         "last_modified": 1567716932,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12239.92.0_falco_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "12239.92.0",
-        "chrome_version": "76.0.3809.137",
+        "chrome_version": "76.0.3809.136",
         "channel": "stable-channel",
         "last_modified": 1567716932,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12239.92.0_falco_recovery_stable-channel_mp-v3.bin.zip"
@@ -30615,14 +30846,14 @@
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.107",
+        "chrome_version": "93.0.4577.108",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_fizz_recovery_stable-channel_mp-v13.bin.zip"
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.108",
+        "chrome_version": "93.0.4577.107",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_fizz_recovery_stable-channel_mp-v13.bin.zip"
@@ -31832,6 +32063,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_fizz_recovery_beta-channel_FizzMPKeys-v21.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_fizz_recovery_beta-channel_FizzMPKeys-v21.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_fizz_recovery_beta-channel_FizzMPKeys-v21.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_fizz_recovery_lts-channel_FizzMPKeys-v20.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -31884,14 +32136,14 @@
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.171",
+        "chrome_version": "88.0.4324.168",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip"
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.168",
+        "chrome_version": "88.0.4324.171",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_fizz-cfm_recovery_stable-channel_fizz-mp-v13.bin.zip"
@@ -32339,14 +32591,14 @@
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.141",
+        "chrome_version": "81.0.4044.143",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_gandof_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.143",
+        "chrome_version": "81.0.4044.141",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_gandof_recovery_stable-channel_mp-v2.bin.zip"
@@ -33427,6 +33679,27 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_geralt_recovery_stable-channel_GeraltMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_geralt_recovery_beta-channel_GeraltMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_geralt_recovery_beta-channel_GeraltMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_geralt_recovery_lts-channel_GeraltMPKeys-v7.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -34635,14 +34908,14 @@
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.208",
+        "chrome_version": "88.0.4324.207",
         "channel": "stable-channel",
         "last_modified": 1616706813,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_grunt_recovery_stable-channel_mp-v6.bin.zip"
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.207",
+        "chrome_version": "88.0.4324.208",
         "channel": "stable-channel",
         "last_modified": 1616706813,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_grunt_recovery_stable-channel_mp-v6.bin.zip"
@@ -36097,6 +36370,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_grunt_recovery_beta-channel_GruntMPKeys-v14.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_grunt_recovery_beta-channel_GruntMPKeys-v14.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_grunt_recovery_beta-channel_GruntMPKeys-v14.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_grunt_recovery_lts-channel_GruntMPKeys-v13.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -36603,14 +36897,14 @@
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.168",
+        "chrome_version": "88.0.4324.171",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_guado-cfm_recovery_stable-channel_guado-mp-v2.bin.zip"
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.171",
+        "chrome_version": "88.0.4324.168",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_guado-cfm_recovery_stable-channel_guado-mp-v2.bin.zip"
@@ -37896,6 +38190,20 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_guybrush_recovery_beta-channel_GuybrushMPKeys-v12.bin.zip"
       },
       {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_guybrush_recovery_beta-channel_GuybrushMPKeys-v12.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_guybrush_recovery_lts-channel_GuybrushMPKeys-v11.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -38334,14 +38642,14 @@
       },
       {
         "platform_version": "14268.67.0",
-        "chrome_version": "96.0.4664.111",
+        "chrome_version": "96.0.4664.118",
         "channel": "stable-channel",
         "last_modified": 1641324292,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14268.67.0_hana_recovery_stable-channel_mp-v7.bin.zip"
       },
       {
         "platform_version": "14268.67.0",
-        "chrome_version": "96.0.4664.118",
+        "chrome_version": "96.0.4664.111",
         "channel": "stable-channel",
         "last_modified": 1641324292,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14268.67.0_hana_recovery_stable-channel_mp-v7.bin.zip"
@@ -39397,6 +39705,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_hana_recovery_beta-channel_HanaMPKeys-v16.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_hana_recovery_beta-channel_HanaMPKeys-v16.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_hana_recovery_beta-channel_HanaMPKeys-v16.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_hana_recovery_lts-channel_HanaMPKeys-v15.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -39449,14 +39778,14 @@
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.143",
+        "chrome_version": "81.0.4044.141",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.141",
+        "chrome_version": "81.0.4044.143",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
@@ -39484,14 +39813,14 @@
       },
       {
         "platform_version": "13099.110.0",
-        "chrome_version": "84.0.4147.136",
+        "chrome_version": "84.0.4147.138",
         "channel": "stable-channel",
         "last_modified": 1598653495,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13099.110.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
       },
       {
         "platform_version": "13099.110.0",
-        "chrome_version": "84.0.4147.138",
+        "chrome_version": "84.0.4147.136",
         "channel": "stable-channel",
         "last_modified": 1598653495,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13099.110.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
@@ -39575,14 +39904,14 @@
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.95",
+        "chrome_version": "89.0.4389.96",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.96",
+        "chrome_version": "89.0.4389.95",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
@@ -39771,14 +40100,14 @@
       },
       {
         "platform_version": "13904.97.0",
-        "chrome_version": "91.0.4472.167",
+        "chrome_version": "91.0.4472.168",
         "channel": "stable-channel",
         "last_modified": 1653068420,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13904.97.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
       },
       {
         "platform_version": "13904.97.0",
-        "chrome_version": "91.0.4472.168",
+        "chrome_version": "91.0.4472.167",
         "channel": "stable-channel",
         "last_modified": 1653068420,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13904.97.0_hatch_recovery_stable-channel_mp-v6.bin.zip"
@@ -41114,6 +41443,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_hatch_recovery_stable-channel_HatchMPKeys-v14.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_hatch_recovery_beta-channel_HatchMPKeys-v14.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_hatch_recovery_beta-channel_HatchMPKeys-v14.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_hatch_recovery_lts-channel_HatchMPKeys-v13.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -41756,14 +42106,14 @@
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.95",
+        "chrome_version": "89.0.4389.96",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_jacuzzi_recovery_stable-channel_mp-v7.bin.zip"
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.96",
+        "chrome_version": "89.0.4389.95",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_jacuzzi_recovery_stable-channel_mp-v7.bin.zip"
@@ -43274,6 +43624,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_jacuzzi_recovery_stable-channel_JacuzziMPKeys-v21.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_jacuzzi_recovery_beta-channel_JacuzziMPKeys-v21.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_jacuzzi_recovery_beta-channel_JacuzziMPKeys-v21.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_jacuzzi_recovery_lts-channel_JacuzziMPKeys-v20.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -43489,6 +43860,20 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_jedi_recovery_stable-channel_JediMPKeys-v5.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_jedi_recovery_beta-channel_JediMPKeys-v5.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_jedi_recovery_beta-channel_JediMPKeys-v5.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -44933,6 +45318,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_kalista_recovery_beta-channel_KalistaMPKeys-v10.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_kalista_recovery_beta-channel_KalistaMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_kalista_recovery_beta-channel_KalistaMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_kalista_recovery_lts-channel_KalistaMPKeys-v9.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -45999,14 +46405,14 @@
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.208",
+        "chrome_version": "88.0.4324.207",
         "channel": "stable-channel",
         "last_modified": 1616706813,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_kevin_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.207",
+        "chrome_version": "88.0.4324.208",
         "channel": "stable-channel",
         "last_modified": 1616706813,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_kevin_recovery_stable-channel_mp.bin.zip"
@@ -46817,14 +47223,14 @@
       },
       {
         "platform_version": "13421.73.0",
-        "chrome_version": "86.0.4240.112",
+        "chrome_version": "86.0.4240.119",
         "channel": "stable-channel",
         "last_modified": 1603989656,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.73.0_kip_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "13421.73.0",
-        "chrome_version": "86.0.4240.119",
+        "chrome_version": "86.0.4240.112",
         "channel": "stable-channel",
         "last_modified": 1603989656,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.73.0_kip_recovery_stable-channel_mp-v3.bin.zip"
@@ -47016,14 +47422,14 @@
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.141",
+        "chrome_version": "81.0.4044.143",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_kukui_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.143",
+        "chrome_version": "81.0.4044.141",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_kukui_recovery_stable-channel_mp-v2.bin.zip"
@@ -48679,6 +49085,27 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_kukui_recovery_stable-channel_KukuiMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_kukui_recovery_beta-channel_KukuiMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_kukui_recovery_beta-channel_KukuiMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_kukui_recovery_lts-channel_KukuiMPKeys-v12.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -53712,6 +54139,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_nami_recovery_beta-channel_NamiMPKeys-v13.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_nami_recovery_beta-channel_NamiMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_nami_recovery_beta-channel_NamiMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nami_recovery_lts-channel_NamiMPKeys-v12.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -55136,6 +55584,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_nautilus_recovery_beta-channel_NautilusMPKeys-v10.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_nautilus_recovery_beta-channel_NautilusMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_nautilus_recovery_beta-channel_NautilusMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nautilus_recovery_lts-channel_NautilusMPKeys-v9.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -56233,6 +56702,27 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_nirva_recovery_stable-channel_NissaMPKeys-v76.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_nirva_recovery_beta-channel_NissaMPKeys-v76.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_nirva_recovery_beta-channel_NissaMPKeys-v76.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nirva_recovery_lts-channel_NissaMPKeys-v70.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -57421,6 +57911,20 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_nissa_recovery_stable-channel_NissaMPKeys-v76.bin.zip"
       },
       {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_nissa_recovery_beta-channel_NissaMPKeys-v76.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nissa_recovery_lts-channel_NissaMPKeys-v70.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -57932,14 +58436,14 @@
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.95",
+        "chrome_version": "89.0.4389.96",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_nocturne_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.96",
+        "chrome_version": "89.0.4389.95",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_nocturne_recovery_stable-channel_mp.bin.zip"
@@ -59387,6 +59891,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_nocturne_recovery_beta-channel_NocturneMPKeys-v9.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_nocturne_recovery_beta-channel_NocturneMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_nocturne_recovery_beta-channel_NocturneMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_nocturne_recovery_lts-channel_NocturneMPKeys-v8.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -60603,14 +61128,14 @@
       },
       {
         "platform_version": "13020.82.0",
-        "chrome_version": "83.0.4103.114",
+        "chrome_version": "83.0.4103.112",
         "channel": "stable-channel",
         "last_modified": 1592847160,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13020.82.0_nyan-kitty_recovery_stable-channel_kitty-mp-v2.bin.zip"
       },
       {
         "platform_version": "13020.82.0",
-        "chrome_version": "83.0.4103.112",
+        "chrome_version": "83.0.4103.114",
         "channel": "stable-channel",
         "last_modified": 1592847160,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13020.82.0_nyan-kitty_recovery_stable-channel_kitty-mp-v2.bin.zip"
@@ -60868,14 +61393,14 @@
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.208",
+        "chrome_version": "88.0.4324.207",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_octopus_recovery_stable-channel_mp-v23.bin.zip"
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.207",
+        "chrome_version": "88.0.4324.208",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_octopus_recovery_stable-channel_mp-v23.bin.zip"
@@ -62421,6 +62946,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_octopus_recovery_stable-channel_OctopusMPKeys-v39.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_octopus_recovery_beta-channel_OctopusMPKeys-v39.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_octopus_recovery_beta-channel_OctopusMPKeys-v39.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_octopus_recovery_lts-channel_OctopusMPKeys-v38.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -62892,14 +63438,14 @@
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.143",
+        "chrome_version": "81.0.4044.141",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_orco_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.141",
+        "chrome_version": "81.0.4044.143",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_orco_recovery_stable-channel_mp-v2.bin.zip"
@@ -65529,28 +66075,28 @@
       },
       {
         "platform_version": "13505.73.0",
-        "chrome_version": "87.0.4280.109",
-        "channel": "stable-channel",
-        "last_modified": 1608307371,
-        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13505.73.0_puff_recovery_stable-channel_mp-v6.bin.zip"
-      },
-      {
-        "platform_version": "13505.73.0",
         "chrome_version": "87.0.4280.116",
         "channel": "stable-channel",
         "last_modified": 1608307371,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13505.73.0_puff_recovery_stable-channel_mp-v6.bin.zip"
       },
       {
+        "platform_version": "13505.73.0",
+        "chrome_version": "87.0.4280.109",
+        "channel": "stable-channel",
+        "last_modified": 1608307371,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13505.73.0_puff_recovery_stable-channel_mp-v6.bin.zip"
+      },
+      {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.208",
+        "chrome_version": "88.0.4324.207",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_puff_recovery_stable-channel_mp-v10.bin.zip"
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.207",
+        "chrome_version": "88.0.4324.208",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_puff_recovery_stable-channel_mp-v10.bin.zip"
@@ -67075,6 +67621,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_puff_recovery_stable-channel_PuffMPKeys-v19.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_puff_recovery_beta-channel_PuffMPKeys-v19.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_puff_recovery_beta-channel_PuffMPKeys-v19.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_puff_recovery_lts-channel_PuffMPKeys-v18.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -68498,6 +69065,20 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_pyro_recovery_beta-channel_PyroMPKeys-v9.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_pyro_recovery_beta-channel_PyroMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_pyro_recovery_lts-channel_PyroMPKeys-v8.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -68890,14 +69471,14 @@
       },
       {
         "platform_version": "12239.92.0",
-        "chrome_version": "76.0.3809.136",
+        "chrome_version": "76.0.3809.137",
         "channel": "stable-channel",
         "last_modified": 1567716932,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12239.92.0_quawks_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "12239.92.0",
-        "chrome_version": "76.0.3809.137",
+        "chrome_version": "76.0.3809.136",
         "channel": "stable-channel",
         "last_modified": 1567716932,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12239.92.0_quawks_recovery_stable-channel_mp-v3.bin.zip"
@@ -70687,6 +71268,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_rammus_recovery_beta-channel_RammusMPKeys-v10.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_rammus_recovery_beta-channel_RammusMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_rammus_recovery_beta-channel_RammusMPKeys-v10.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_rammus_recovery_lts-channel_RammusMPKeys-v9.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -71371,6 +71973,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_rauru_recovery_beta-channel_RauruMPKeys-v8.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_rauru_recovery_beta-channel_RauruMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_rauru_recovery_beta-channel_RauruMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_rauru_recovery_lts-channel_RauruMPKeys-v7.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -71613,14 +72236,14 @@
       },
       {
         "platform_version": "13310.93.0",
-        "chrome_version": "85.0.4183.133",
+        "chrome_version": "85.0.4183.134",
         "channel": "stable-channel",
         "last_modified": 1601659193,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13310.93.0_reef_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "13310.93.0",
-        "chrome_version": "85.0.4183.134",
+        "chrome_version": "85.0.4183.133",
         "channel": "stable-channel",
         "last_modified": 1601659193,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13310.93.0_reef_recovery_stable-channel_mp-v2.bin.zip"
@@ -72793,6 +73416,27 @@
         "channel": "beta-channel",
         "last_modified": 1788304160,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_reef_recovery_beta-channel_ReefMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_reef_recovery_beta-channel_ReefMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_reef_recovery_beta-channel_ReefMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_reef_recovery_lts-channel_ReefMPKeys-v10.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -75378,6 +76022,20 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.94.0_reven_recovery_lts-channel_RevenMPKeys-v10.bin.zip"
       },
       {
+        "platform_version": "16700.63.0",
+        "chrome_version": "150.0.7871.253",
+        "channel": "ltc-channel",
+        "last_modified": 1789389454,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16700.63.0_reven_recovery_ltc-channel_RevenMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16765.41.0",
+        "chrome_version": "152.0.7977.113",
+        "channel": "stable-channel",
+        "last_modified": 1789392050,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_reven_recovery_stable-channel_RevenMPKeys-v11.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -76330,6 +76988,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_rex_recovery_stable-channel_RexMPKeys-v8.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_rex_recovery_beta-channel_RexMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_rex_recovery_beta-channel_RexMPKeys-v8.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_rex_recovery_lts-channel_RexMPKeys-v7.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -76811,14 +77490,14 @@
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.171",
+        "chrome_version": "88.0.4324.168",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_rikku-cfm_recovery_stable-channel_rikku-mp-v2.bin.zip"
       },
       {
         "platform_version": "13597.67.5",
-        "chrome_version": "88.0.4324.168",
+        "chrome_version": "88.0.4324.171",
         "channel": "stable-channel",
         "last_modified": 1620239985,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.67.5_rikku-cfm_recovery_stable-channel_rikku-mp-v2.bin.zip"
@@ -77125,14 +77804,14 @@
       },
       {
         "platform_version": "12239.67.0",
-        "chrome_version": "76.0.3809.108",
+        "chrome_version": "76.0.3809.102",
         "channel": "stable-channel",
         "last_modified": 1567716932,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12239.67.0_samus_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "12239.67.0",
-        "chrome_version": "76.0.3809.102",
+        "chrome_version": "76.0.3809.108",
         "channel": "stable-channel",
         "last_modified": 1567716932,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12239.67.0_samus_recovery_stable-channel_mp-v3.bin.zip"
@@ -78787,6 +79466,27 @@
         "channel": "beta-channel",
         "last_modified": 1788304160,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_sand_recovery_beta-channel_SandMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_sand_recovery_beta-channel_SandMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_sand_recovery_beta-channel_SandMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_sand_recovery_lts-channel_SandMPKeys-v8.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -80482,6 +81182,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_sarien_recovery_beta-channel_SarienMPKeys-v11.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_sarien_recovery_beta-channel_SarienMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_sarien_recovery_beta-channel_SarienMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_sarien_recovery_lts-channel_SarienMPKeys-v10.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -80610,14 +81331,14 @@
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.143",
+        "chrome_version": "81.0.4044.141",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_scarlet_recovery_stable-channel_mp-v7.bin.zip"
       },
       {
         "platform_version": "12871.102.0",
-        "chrome_version": "81.0.4044.141",
+        "chrome_version": "81.0.4044.143",
         "channel": "stable-channel",
         "last_modified": 1591114673,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12871.102.0_scarlet_recovery_stable-channel_mp-v7.bin.zip"
@@ -81710,14 +82431,14 @@
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.78",
+        "chrome_version": "97.0.4692.77",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_sentry_recovery_stable-channel_mp.bin.zip"
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.77",
+        "chrome_version": "97.0.4692.78",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_sentry_recovery_stable-channel_mp.bin.zip"
@@ -83647,6 +84368,20 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16733.57.0_skyrim_recovery_stable-channel_SkyrimMPKeys-v13.bin.zip"
       },
       {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_skyrim_recovery_beta-channel_SkyrimMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_skyrim_recovery_lts-channel_SkyrimMPKeys-v12.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -84095,6 +84830,27 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_skywalker_recovery_stable-channel_SkywalkerMPKeys-v12.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_skywalker_recovery_beta-channel_SkywalkerMPKeys-v12.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_skywalker_recovery_beta-channel_SkywalkerMPKeys-v12.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_skywalker_recovery_lts-channel_SkywalkerMPKeys-v9.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -85507,6 +86263,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_snappy_recovery_beta-channel_SnappyMPKeys-v9.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_snappy_recovery_beta-channel_SnappyMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_snappy_recovery_beta-channel_SnappyMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_snappy_recovery_lts-channel_SnappyMPKeys-v8.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -86904,6 +87681,27 @@
         "channel": "beta-channel",
         "last_modified": 1788304160,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.38.0_soraka_recovery_beta-channel_SorakaMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_soraka_recovery_beta-channel_SorakaMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_soraka_recovery_beta-channel_SorakaMPKeys-v9.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_soraka_recovery_lts-channel_SorakaMPKeys-v8.bin.zip"
       },
       {
         "platform_version": "0.0.0",
@@ -88382,6 +89180,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_staryu_recovery_stable-channel_StaryuMPKeys-v11.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_staryu_recovery_beta-channel_StaryuMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_staryu_recovery_beta-channel_StaryuMPKeys-v11.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_staryu_recovery_lts-channel_StaryuMPKeys-v10.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -88873,14 +89692,14 @@
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.107",
+        "chrome_version": "93.0.4577.108",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_strongbad_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.108",
+        "chrome_version": "93.0.4577.107",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_strongbad_recovery_stable-channel_mp-v3.bin.zip"
@@ -89146,14 +89965,14 @@
       },
       {
         "platform_version": "15117.112.0",
-        "chrome_version": "107.0.5304.111",
+        "chrome_version": "107.0.5304.110",
         "channel": "stable-channel",
         "last_modified": 1668797768,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15117.112.0_strongbad_recovery_stable-channel_mp-v5.bin.zip"
       },
       {
         "platform_version": "15117.112.0",
-        "chrome_version": "107.0.5304.110",
+        "chrome_version": "107.0.5304.111",
         "channel": "stable-channel",
         "last_modified": 1668797768,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_15117.112.0_strongbad_recovery_stable-channel_mp-v5.bin.zip"
@@ -90342,6 +91161,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_strongbad_recovery_stable-channel_StrongbadMPKeys-v13.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_strongbad_recovery_beta-channel_StrongbadMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_strongbad_recovery_beta-channel_StrongbadMPKeys-v13.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_strongbad_recovery_lts-channel_StrongbadMPKeys-v12.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -91147,14 +91987,14 @@
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.108",
+        "chrome_version": "93.0.4577.107",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_sumo_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.107",
+        "chrome_version": "93.0.4577.108",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_sumo_recovery_stable-channel_mp-v2.bin.zip"
@@ -91657,14 +92497,14 @@
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.95",
+        "chrome_version": "89.0.4389.96",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_swanky_recovery_stable-channel_mp-v3.bin.zip"
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.96",
+        "chrome_version": "89.0.4389.95",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_swanky_recovery_stable-channel_mp-v3.bin.zip"
@@ -93258,28 +94098,28 @@
     "images": [
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.208",
-        "channel": "stable-channel",
-        "last_modified": 1616706813,
-        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_trogdor_recovery_stable-channel_mp-v4.bin.zip"
-      },
-      {
-        "platform_version": "13597.105.0",
         "chrome_version": "88.0.4324.207",
         "channel": "stable-channel",
         "last_modified": 1616706813,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_trogdor_recovery_stable-channel_mp-v4.bin.zip"
       },
       {
+        "platform_version": "13597.105.0",
+        "chrome_version": "88.0.4324.208",
+        "channel": "stable-channel",
+        "last_modified": 1616706813,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_trogdor_recovery_stable-channel_mp-v4.bin.zip"
+      },
+      {
         "platform_version": "13729.45.0",
-        "chrome_version": "89.0.4389.83",
+        "chrome_version": "89.0.4329.82",
         "channel": "stable-channel",
         "last_modified": 1617126703,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.45.0_trogdor_recovery_stable-channel_mp-v4.bin.zip"
       },
       {
         "platform_version": "13729.45.0",
-        "chrome_version": "89.0.4329.82",
+        "chrome_version": "89.0.4389.83",
         "channel": "stable-channel",
         "last_modified": 1617126703,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.45.0_trogdor_recovery_stable-channel_mp-v4.bin.zip"
@@ -94846,6 +95686,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_trogdor_recovery_stable-channel_TrogdorMPKeys-v19.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_trogdor_recovery_beta-channel_TrogdorMPKeys-v19.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_trogdor_recovery_beta-channel_TrogdorMPKeys-v19.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_trogdor_recovery_lts-channel_TrogdorMPKeys-v18.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -95384,14 +96245,14 @@
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.77",
+        "chrome_version": "97.0.4692.78",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_ultima_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "14324.62.0",
-        "chrome_version": "97.0.4692.78",
+        "chrome_version": "97.0.4692.77",
         "channel": "stable-channel",
         "last_modified": 1642629013,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14324.62.0_ultima_recovery_stable-channel_mp-v2.bin.zip"
@@ -95817,14 +96678,14 @@
       },
       {
         "platform_version": "13421.73.0",
-        "chrome_version": "86.0.4240.112",
+        "chrome_version": "86.0.4240.119",
         "channel": "stable-channel",
         "last_modified": 1603989656,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.73.0_veyron-fievel_recovery_stable-channel_fievel-mp.bin.zip"
       },
       {
         "platform_version": "13421.73.0",
-        "chrome_version": "86.0.4240.119",
+        "chrome_version": "86.0.4240.112",
         "channel": "stable-channel",
         "last_modified": 1603989656,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13421.73.0_veyron-fievel_recovery_stable-channel_fievel-mp.bin.zip"
@@ -96383,14 +97244,14 @@
       },
       {
         "platform_version": "12499.66.0",
-        "chrome_version": "78.0.3904.107",
+        "chrome_version": "78.0.3904.106",
         "channel": "stable-channel",
         "last_modified": 1575995504,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12499.66.0_veyron-jaq_recovery_stable-channel_jaq-mp-v5.bin.zip"
       },
       {
         "platform_version": "12499.66.0",
-        "chrome_version": "78.0.3904.106",
+        "chrome_version": "78.0.3904.107",
         "channel": "stable-channel",
         "last_modified": 1575995504,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12499.66.0_veyron-jaq_recovery_stable-channel_jaq-mp-v5.bin.zip"
@@ -97697,14 +98558,14 @@
       },
       {
         "platform_version": "12607.81.0",
-        "chrome_version": "79.0.3945.119",
+        "chrome_version": "79.0.3945.123",
         "channel": "stable-channel",
         "last_modified": 1580151271,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12607.81.0_veyron-mighty_recovery_stable-channel_mighty-mp-v11.bin.zip"
       },
       {
         "platform_version": "12607.81.0",
-        "chrome_version": "79.0.3945.123",
+        "chrome_version": "79.0.3945.119",
         "channel": "stable-channel",
         "last_modified": 1580151271,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_12607.81.0_veyron-mighty_recovery_stable-channel_mighty-mp-v11.bin.zip"
@@ -99200,14 +100061,14 @@
       },
       {
         "platform_version": "13816.82.0",
-        "chrome_version": "90.0.4430.218",
+        "chrome_version": "90.0.4430.219",
         "channel": "stable-channel",
         "last_modified": 1621886875,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13816.82.0_volteer_recovery_stable-channel_mp-v6.bin.zip"
       },
       {
         "platform_version": "13816.82.0",
-        "chrome_version": "90.0.4430.219",
+        "chrome_version": "90.0.4430.218",
         "channel": "stable-channel",
         "last_modified": 1621886875,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13816.82.0_volteer_recovery_stable-channel_mp-v6.bin.zip"
@@ -99235,14 +100096,14 @@
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.107",
+        "chrome_version": "93.0.4577.108",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_volteer_recovery_stable-channel_mp-v8.bin.zip"
       },
       {
         "platform_version": "14092.77.0",
-        "chrome_version": "93.0.4577.108",
+        "chrome_version": "93.0.4577.107",
         "channel": "stable-channel",
         "last_modified": 1634673562,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_14092.77.0_volteer_recovery_stable-channel_mp-v8.bin.zip"
@@ -100655,6 +101516,27 @@
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_volteer_recovery_stable-channel_VolteerMPKeys-v15.bin.zip"
       },
       {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_volteer_recovery_beta-channel_VolteerMPKeys-v15.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_volteer_recovery_beta-channel_VolteerMPKeys-v15.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_volteer_recovery_lts-channel_VolteerMPKeys-v14.bin.zip"
+      },
+      {
         "platform_version": "0.0.0",
         "chrome_version": "0.0.0.0",
         "kernel_version": null,
@@ -101161,14 +102043,14 @@
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.95",
+        "chrome_version": "89.0.4389.96",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_winky_recovery_stable-channel_mp-v2.bin.zip"
       },
       {
         "platform_version": "13729.56.0",
-        "chrome_version": "89.0.4389.96",
+        "chrome_version": "89.0.4389.95",
         "channel": "stable-channel",
         "last_modified": 1617316414,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13729.56.0_winky_recovery_stable-channel_mp-v2.bin.zip"
@@ -103575,14 +104457,14 @@
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.208",
+        "chrome_version": "88.0.4324.207",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_zork_recovery_stable-channel_mp-v4.bin.zip"
       },
       {
         "platform_version": "13597.105.0",
-        "chrome_version": "88.0.4324.207",
+        "chrome_version": "88.0.4324.208",
         "channel": "stable-channel",
         "last_modified": 1616700901,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_13597.105.0_zork_recovery_stable-channel_mp-v4.bin.zip"
@@ -105105,6 +105987,27 @@
         "channel": "stable-channel",
         "last_modified": 1789170462,
         "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16765.41.0_zork_recovery_stable-channel_ZorkMPKeys-v15.bin.zip"
+      },
+      {
+        "platform_version": "16805.10.0",
+        "chrome_version": "154.0.8037.15",
+        "channel": "beta-channel",
+        "last_modified": 1789392561,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.10.0_zork_recovery_beta-channel_ZorkMPKeys-v15.bin.zip"
+      },
+      {
+        "platform_version": "16805.16.0",
+        "chrome_version": "154.0.8037.40",
+        "channel": "beta-channel",
+        "last_modified": 1789562217,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16805.16.0_zork_recovery_beta-channel_ZorkMPKeys-v15.bin.zip"
+      },
+      {
+        "platform_version": "16503.95.0",
+        "chrome_version": "144.0.7559.262",
+        "channel": "lts-channel",
+        "last_modified": 1789575488,
+        "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_16503.95.0_zork_recovery_lts-channel_ZorkMPKeys-v14.bin.zip"
       },
       {
         "platform_version": "0.0.0",
